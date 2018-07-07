@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string name="main_hint">Enter Your List Item</string>
+    <string name="main_save">Save</string>
+</resources>
